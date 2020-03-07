@@ -49,7 +49,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "publications-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Publications, name: publications, widget: object, fields: [
+          - {label: Publications, name: publications, widget: list, fields: [
               {label: Authors, name: authors, widget: text},
               {label: Title, name: title, widget: text},
               {label: Journal, name: journal, widget: text},
@@ -61,23 +61,23 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Education, name: education, widget: object, fields: [
+          - {label: Education, name: education, widget: list, fields: [
               {label: What, name: what, widget: markdown},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
             ]}
-          - {label: Research, name: research, widget: object, fields: [
+          - {label: Research, name: research, widget: list, fields: [
               {label: What, name: what, widget: markdown},
               {label: Description, name: description, widget: markdown},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
             ]}
-          - {label: Awards, name: awards, widget: object, fields: [
+          - {label: Awards, name: awards, widget: list, fields: [
               {label: What, name: what, widget: markdown},
               {label: Description, name: description, widget: markdown},
               {label: When, name: when, widget: string},
             ]}
-          - {label: Presentations, name: presentations, widget: object, fields: [
+          - {label: Presentations, name: presentations, widget: list, fields: [
               {label: What, name: what, widget: markdown},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
