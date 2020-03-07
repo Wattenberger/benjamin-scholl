@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { IndexPageTemplate } from '../../templates/index-page'
+import { ResearchPageTemplate } from '../../templates/research-page'
 
-const IndexPagePreview = ({ entry, widgetFor }) => (
-  <IndexPageTemplate
+const ResearchPagePreview = ({ entry, widgetFor }) => (
+  <ResearchPageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
   />
 )
 
-IndexPagePreview.propTypes = {
+ResearchPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default IndexPagePreview
+export default ResearchPagePreview
