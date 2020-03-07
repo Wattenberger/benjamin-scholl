@@ -62,23 +62,23 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv-page"}
           - {label: Title, name: title, widget: string}
           - {label: Education, name: education, widget: list, fields: [
-              {label: What, name: what, widget: markdown},
+              {label: What, name: what, widget: string},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
             ]}
           - {label: Research, name: research, widget: list, fields: [
-              {label: What, name: what, widget: markdown},
-              {label: Description, name: description, widget: markdown},
+              {label: What, name: what, widget: string},
+              {label: Description, name: description, widget: string},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
             ]}
           - {label: Awards, name: awards, widget: list, fields: [
-              {label: What, name: what, widget: markdown},
-              {label: Description, name: description, widget: markdown},
+              {label: Description, name: description, widget: string},
+              {label: What, name: what, widget: string},
               {label: When, name: when, widget: string},
             ]}
           - {label: Presentations, name: presentations, widget: list, fields: [
-              {label: What, name: what, widget: markdown},
+              {label: What, name: what, widget: string},
               {label: Where, name: where, widget: string},
               {label: When, name: when, widget: string},
             ]}
