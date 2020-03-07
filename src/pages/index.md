@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: '# Hi, I''m Benjamin Scholl, PhD'
+title: 'Hi, I''m Benjamin Scholl, PhD'
 ---
 <!--StartFragment-->
 
