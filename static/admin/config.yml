@@ -19,16 +19,16 @@ collections:
         label: "Landing Page"
         name: "index"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page", required: false}
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page", required: false}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "src/pages/research/index.md"
         label: "Research"
         name: "research"
@@ -40,45 +40,45 @@ collections:
         label: "Contact"
         name: "contact"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page", required: false}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "src/pages/publications/index.md"
         label: "Publications"
         name: "publications"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "publications-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "publications-page", required: false}
+          - {label: Title, name: title, widget: string, required: false}
           - {label: Publications, name: publications, widget: list, fields: [
-              {label: Authors, name: authors, widget: text},
-              {label: Title, name: title, widget: text},
-              {label: Journal, name: journal, widget: text},
-              {label: Link, name: link, widget: text},
+              {label: Authors, name: authors, widget: text, required: false},
+              {label: Title, name: title, widget: text, required: false},
+              {label: Journal, name: journal, widget: text, required: false},
+              {label: Link, name: link, widget: text, required: false},
             ]}
       - file: "src/pages/cv/index.md"
         label: "Cv"
         name: "cv"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv-page", required: false}
+          - {label: Title, name: title, widget: string, required: false}
           - {label: Education, name: education, widget: list, fields: [
-              {label: What, name: what, widget: string},
-              {label: Where, name: where, widget: string},
-              {label: When, name: when, widget: string},
+              {label: What, name: what, widget: string, required: false},
+              {label: Where, name: where, widget: string, required: false},
+              {label: When, name: when, widget: string, required: false},
             ]}
           - {label: Research, name: research, widget: list, fields: [
-              {label: What, name: what, widget: string},
-              {label: Description, name: description, widget: string},
-              {label: Where, name: where, widget: string},
-              {label: When, name: when, widget: string},
+              {label: What, name: what, widget: string, required: false},
+              {label: Description, name: description, widget: string, required: false},
+              {label: Where, name: where, widget: string, required: false},
+              {label: When, name: when, widget: string, required: false},
             ]}
           - {label: Awards, name: awards, widget: list, fields: [
-              {label: Description, name: description, widget: string},
-              {label: What, name: what, widget: string},
-              {label: When, name: when, widget: string},
+              {label: Description, name: description, widget: string, required: false},
+              {label: What, name: what, widget: string, required: false},
+              {label: When, name: when, widget: string, required: false},
             ]}
           - {label: Presentations, name: presentations, widget: list, fields: [
-              {label: What, name: what, widget: string},
-              {label: Where, name: where, widget: string},
-              {label: When, name: when, widget: string},
+              {label: What, name: what, widget: string, required: false},
+              {label: Where, name: where, widget: string, required: false},
+              {label: When, name: when, widget: string, required: false},
             ]}
