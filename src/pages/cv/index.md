@@ -36,6 +36,8 @@ research:
     where: 'Institute of Neuroscience, University of Oregon, Eugene, Oregon'
     when: 2005 - 2008
 awards:
+  - description: K99 Award
+    when: 2020-2024
   - description: 'Cold Spring Harbor Summer Course fellowship: Imaging Techniques'
     when: '2012'
   - description: Center for Perceptual Systems Training Grant
@@ -52,35 +54,6 @@ awards:
     when: 2008 - 2009
   - description: Novick Award for Undergraduate Thesis
     when: '2008'
-  - what: McNair Scholar Mentor
-    description: >-
-      Assisted several undergraduate students in applying for graduate programs
-      in neuroscience and biomedical engineering. Helped construct undergraduate
-      research portfolio, write admissions essays, and attended scientific
-      conferences together
-    when: 2012-2013
-  - what: Visiting researcher at University of Melbourne
-    description: >-
-      Traveled to Australia to teach and setup in vivo whole cell patch clamp
-      electrophysiology in mouse cortex in Michael Ibbotsonâ€™s lab. Work
-      involved constructing electrophysiology setup, instructing graduate
-      students in surgical preparations and theory of electrophysiology, and
-      teaching blind patch methods
-    when: 'Jan-Feb, 2012'
-  - what: University of Western Sydney seminar speaker
-    description: >-
-      Invited to speak at joint colloquium for MARCS. Spoke about research
-      interests and experiments in understanding binocular convergence in the
-      visual pathway.
-    when: 'Feb, 2012'
-  - what: 'Nobel Laureate Meeting for Physiology and Medicine in Lindau, Germany'
-    description: >-
-      Selected as UT Austin representative and one of 80 graduate from across
-      the United States to attend meeting in Lindau, Germany. Participated in
-      interdisciplinary scientific discussions both with Laureates and
-      international graduate students.
-    when: 'July, 2011'
-  - description: K99 Award
 presentations:
   - what: >-
       Emergence of orientation selectivity in the mammalian visual pathway.
