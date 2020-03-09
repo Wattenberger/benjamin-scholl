@@ -24,8 +24,8 @@ export const CvPageTemplate = ({
                   { name }
                 </h3>
                 <div>
-                  {items.map(({ what, description, where, when }) => (
-                    <div className="pub" key={what} style={{
+                  {items.map(({ what, description, where, when }, i) => (
+                    <div className="pub" key={i} style={{
                       display: "flex",
                       justifyContent: "space-between",
                       padding: "1em 0",
@@ -33,28 +33,36 @@ export const CvPageTemplate = ({
                       <div style={{
                         flex: 1,
                       }}>
-                        <div style={{
-                          fontWeight: 600
-                        }}>
-                          { what }
-                        </div>
-                        <div style={{
-                          fontSize: "0.8em"
-                        }}>
-                          { description }
-                        </div>
-                        <div style={{
-                          fontSize: "0.8em"
-                        }}>
-                          { where }
-                        </div>
+                        {!!what && (
+                          <div style={{
+                            fontWeight: 600
+                          }}>
+                            { what }
+                          </div>
+                        )}
+                        {!!description && (
+                          <div style={{
+                            fontSize: "0.8em"
+                          }}>
+                            { description }
+                          </div>
+                        )}
+                        {!!where && (
+                          <div style={{
+                            fontSize: "0.8em"
+                          }}>
+                            { where }
+                          </div>
+                        )}
                       </div>
-                      <div style={{
-                        fontSize: "0.8em",
-                        textAlign: "right",
-                      }}>
-                        { when }
-                      </div>
+                      {!!when && (
+                        <div style={{
+                          fontSize: "0.8em",
+                          textAlign: "right",
+                        }}>
+                          { when }
+                        </div>
+                      )}
                     </div>
                   ))}
                 </div>
@@ -138,7 +146,6 @@ export const cvPageQuery = graphql`
           when
         },
         awards {
-          what,
           description,
           when
         },
