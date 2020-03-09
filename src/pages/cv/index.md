@@ -80,7 +80,6 @@ awards:
       interdisciplinary scientific discussions both with Laureates and
       international graduate students.
     when: 'July, 2011'
-  - description: test
 presentations:
   - what: >-
       Emergence of orientation selectivity in the mammalian visual pathway.
