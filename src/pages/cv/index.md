@@ -1,7 +1,7 @@
 ---
 templateKey: cv-page
 path: /cv
-title: CV2
+title: CV
 education:
   - what: 'Postdoctoral Research, Fitzpatrick Lab'
     where: 'Max Planck Florida Institute for Neuroscience, Jupiter, Florida'
@@ -80,6 +80,7 @@ awards:
       interdisciplinary scientific discussions both with Laureates and
       international graduate students.
     when: 'July, 2011'
+  - description: test
 presentations:
   - what: >-
       Emergence of orientation selectivity in the mammalian visual pathway.
