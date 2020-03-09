@@ -36,7 +36,7 @@ research:
     where: 'Institute of Neuroscience, University of Oregon, Eugene, Oregon'
     when: 2005 - 2008
 awards:
-  - description: K99 Award
+  - description: K999 Award
     when: 2020-2024
   - description: 'Cold Spring Harbor Summer Course fellowship: Imaging Techniques'
     when: '2012'
