@@ -36,8 +36,15 @@ research:
     where: 'Institute of Neuroscience, University of Oregon, Eugene, Oregon'
     when: 2005 - 2008
 awards:
-  - description: K999 Award
+  - description: K99 EY031137-01
     when: 2020-2024
+    what: >-
+      Principles of presynaptic networks for single layer 2/3 neurons in ferret
+      visual cortex
+  - description: 'Allison Doupe Fellowship '
+    when: '2019'
+  - description: 'MPFI scientific achievement award '
+    when: '2018'
   - description: 'Cold Spring Harbor Summer Course fellowship: Imaging Techniques'
     when: '2012'
   - description: Center for Perceptual Systems Training Grant
