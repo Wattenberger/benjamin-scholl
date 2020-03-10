@@ -13,7 +13,7 @@ publications:
     link: 'https://www.biorxiv.org/content/10.1101/2019.12.24.887422v1.abstract'
   - authors: 'Benjamin Scholl, David Fitzpatrick'
     title: Cortical synaptic architecture supports flexible sensory computations
-    journal: Current Opinion in Neurobiology
+    journal: Current Opinion in Neurobiology 2020
     link: 'https://www.sciencedirect.com/science/article/abs/pii/S0959438820300337'
   - authors: >-
       Tal Laviv, Benjamin Scholl, Paula Parra-Bueno, Beth Foote, Chuqiu Zhang,
@@ -21,13 +21,13 @@ publications:
     title: >-
       In Vivo Imaging of the Coupling between Neuronal and CREB Activity in the
       Mouse Brain
-    journal: Neuron
+    journal: Neuron 2019
     link: 'https://www.sciencedirect.com/science/article/abs/pii/S0896627319310372'
   - authors: 'Benjamin Scholl, Daniel E Wilson, Juliane Jaepel, David Fitzpatrick'
     title: >-
       Functional Logic of Layer 2/3 Inhibitory Connectivity in the Ferret Visual
       Cortex
-    journal: Neuron
+    journal: Neuron 2019
     link: 'https://www.sciencedirect.com/science/article/abs/pii/S0896627319306889'
   - authors: 'Daniel E Wilson, Benjamin Scholl, David Fitzpatrick'
     title: >-
