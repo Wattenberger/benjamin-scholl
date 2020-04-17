@@ -70,7 +70,7 @@ publications:
     title: >-
       Functional characterization and spatial clustering of visual cortical
       neurons in the predatory grasshopper mouse Onychomys arenicola
-    journal: J Neurophysiology 2017
+    journal: Journal of Neurophysiology 2017
     link: 'https://www.physiology.org/doi/pdf/10.1152/jn.00779.2016'
   - authors: 'Daniel Wilson, David Whitney, Benjamin Scholl & David Fitzpatrick'
     title: >-
@@ -82,7 +82,7 @@ publications:
     title: >-
       Functional characterization of spikelet activity in the primary visual
       cortex
-    journal: J Physiol 2015
+    journal: Journal of Physiology 2015
     link: >-
       http://onlinelibrary.wiley.com/doi/10.1113/JP270876/abstract;jsessionid=FFE8EA68F3029F1D0090DCE2123B3A85.f04t02?userIsAuthenticated=false&deniedAccessCustomisedMessage=
   - authors: >-
@@ -117,7 +117,7 @@ publications:
     title: >-
       Strabismus disrupts binocular synaptic integration in primary visual
       cortex
-    journal: J Neurosci 2013.
+    journal: Journal of Neuroscience 2013.
     link: 'http://www.jneurosci.org/content/33/43/17108.full'
   - authors: Benjamin Scholl and Nicholas J. Priebe.
     title: Modeling the emergence of orientation selectivity in the cerebral cortex
@@ -134,21 +134,21 @@ publications:
     title: >-
       Binocular Integration and Disparity Selectivity in Mouse Primary Visual
       Cortex
-    journal: J Neurophys 2013.
+    journal: Journal of Neurophysiology 2013.
     link: 'http://jn.physiology.org/content/109/12/3013.abstract'
   - authors: Joe Corey and Benjamin Scholl.
     title: Cortical selectivity through random connections
-    journal: J Neurosci 2012.
+    journal: Journal of Neuroscience 2012
     link: 'http://www.jneurosci.org/content/32/30/10103.full'
   - authors: 'Benjamin Scholl, Kenneth W. Latimer, and Nicholas J. Priebe.'
     title: A retinal source of spatial contrast gain control
-    journal: J Neurosci 2012.
+    journal: Journal of Neuroscience 2012
     link: 'http://www.jneurosci.org/content/32/29/9824.abstract'
   - authors: 'Deepankar Mohanty, Benjamin Scholl, and Nicholas J Priebe. '
     title: >-
       The accuracy of membrane potential reconstruction based on spiking
       receptive fields 
-    journal: J Neurophys 2011.
+    journal: Journal of Neurophysiology 2011.
     link: 'http://jn.physiology.org/content/107/8/2143.full'
   - authors: >-
       Andrew Y. Y. Tan, Brandon D. Brown, Benjamin Scholl, Deepankar Mohanty,
@@ -156,13 +156,13 @@ publications:
     title: >-
       Orientation selectivity of synaptic input to neurons in mouse and cat
       primary visual cortex. 
-    journal: J Neurosci 2011.
+    journal: Journal of Neuroscience 2011.
     link: 'http://www.jneurosci.org/content/31/34/12339.abstract'
   - authors: 'Benjamin Scholl, Xiang Gao, and Michael Wehr.'
     title: >-
       Nonoverlapping sets of synapes drive on and off responses in auditory
       cortex
-    journal: Neuron 2010.
+    journal: Neuron 2010
     link: 'http://www.sciencedirect.com/science/article/pii/S0896627310000462'
   - authors: >-
       Benjamin Scholl, H.Y. Liu, Brian R. Long, Owen J.T. McCarty, T. O'Hare,
@@ -175,10 +175,10 @@ publications:
     title: >-
       Disruption of balanced cortical excitation and inhibition by acoustic
       trauma
-    journal: J Neurophys 2008.
+    journal: Journal of Neurophysiology 2008
     link: 'http://jn.physiology.org/content/100/2/646.short'
   - authors: 'Benjamin Scholl, Xiang Gao, and Michael Wehr.'
     title: Level dependence of contextual modulation in auditory cortex
-    journal: J Neurophys 2008.
+    journal: Journal of Neurophysiology 2008
     link: 'http://jn.physiology.org/content/99/4/1616.short'
 ---
