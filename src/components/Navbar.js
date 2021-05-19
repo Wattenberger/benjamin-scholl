@@ -69,7 +69,7 @@ const Navbar = class extends React.Component {
                 people
               </Link>
               <Link className="navbar-item" to="/pubs">
-                pubs
+                publications
               </Link>
               <Link className="navbar-item" to="/cv">
                 cv
