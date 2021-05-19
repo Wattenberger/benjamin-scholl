@@ -22,5 +22,3 @@ title: Contact Us
 ### Twitter
 
 > [@NeuroScholl](https://twitter.com/neuroscholl?lang=en)
->
-> <!--EndFragment-->
