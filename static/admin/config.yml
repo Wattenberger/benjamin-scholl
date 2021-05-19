@@ -26,7 +26,7 @@ collections:
         label: "People"
         name: "people"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page", required: false}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "people-page", required: false}
           - {label: "Title", name: "title", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown", required: false}
       - file: "src/pages/research/index.md"
