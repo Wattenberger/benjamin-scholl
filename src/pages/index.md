@@ -12,6 +12,10 @@ Our work uses a variety of techniques to study sensory processing within single 
 
 ***Diversity Statement***
 
-*All people deserve to be treated equally, with dignity and respect. Our lab welcomes and encourages individuals from all backgrounds. We are committed to maintaining and promoting a diverse, inclusive, and supportive environment. Togethter, we strive for scientific exellence, while learning and honing a variety of skills in the process.*
+*All people deserve to be treated equally, with dignity and respect. Our lab welcomes and encourages individuals from all backgrounds. We are committed to maintaining and promoting a diverse, inclusive, and supportive environment. Together, we strive for scientific exellence, while learning and honing a variety of skills in the process.*
+
+
+
+*(fix spelling errors)*
 
 <!--EndFragment-->
