@@ -13,14 +13,14 @@ title: Contact Us
 
 ### Full list of publications
 
-> XX
+> [google scholar](https://scholar.google.com/citations?user=V8f_yxsAAAAJ&hl=en)
 >
 > or
 >
-> XX
+> [pubmed](https://www.ncbi.nlm.nih.gov/myncbi/benjamin.scholl.1/bibliography/public/)
 
 ### Twitter
 
-> XX
-
-<!--EndFragment-->
+> [@NeuroScholl](https://twitter.com/neuroscholl?lang=en)
+>
+> <!--EndFragment-->
