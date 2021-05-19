@@ -3,16 +3,10 @@ templateKey: cv-page
 path: /cv
 title: curriculum vitae
 education:
-  - what: 'Postdoctoral Research, Fitzpatrick Lab'
-    where: 'Max Planck Florida Institute for Neuroscience, Jupiter, Florida'
-    when: 2015 - Present
-  - what: 'Doctoral Program, Computational Neuroscience'
+  - what: Ph.D. Neuroscience
     where: 'University of Texas, Austin, Texas'
     when: 2010 - 2015
-  - what: 'Graduate Studies, Biomedical Engineering'
-    where: 'Oregon Health and Science University, Portland, Oregon'
-    when: 2008 - 2010
-  - what: 'Bachelor of Science, Physics'
+  - what: B.S. Physics
     description: Math & Biology Minors
     where: 'Robert D. Clark Honors College,  University of Oregon, Eugene, Oregon'
     when: 2004 - 2008
