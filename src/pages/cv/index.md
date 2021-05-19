@@ -1,7 +1,7 @@
 ---
 templateKey: cv-page
 path: /cv
-title: CV
+title: curriculum vitae
 education:
   - what: 'Postdoctoral Research, Fitzpatrick Lab'
     where: 'Max Planck Florida Institute for Neuroscience, Jupiter, Florida'
@@ -17,10 +17,14 @@ education:
     where: 'Robert D. Clark Honors College,  University of Oregon, Eugene, Oregon'
     when: 2004 - 2008
 research:
+  - what: Assistant Professor
+    description: Studying cortical synaptic networks in health and disease
+    where: 'University of Pennsylvania, Philadelphia, PA'
+    when: 2021 - Present
   - what: 'Postdoc, (PI) David Fitzpatrick, Ph.D. '
     description: 'Focus: sensory computations in ferret cortex'
     where: 'Max Planck Florida Institute for Neuroscience, Jupiter, Florida'
-    when: 2015 - Present
+    when: 2015 - 2021
   - what: 'PhD Graduate Research, (PI) Nicholas J. Priebe, Ph.D. '
     description: 'Focus: visual neuroscience and sensory computations'
     where: 'Institute of Neuroscience, University of Texas, Austin, Texas'
