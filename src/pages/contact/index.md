@@ -3,12 +3,24 @@ title: Contact Us
 ---
 <!--StartFragment-->
 
-###### Please feel free to contact us!
+### Please feel free to contact us!
 
-benjamin.scholl@pennmedicine.upenn.edu
+> benjamin.scholl@pennmedicine.upenn.edu
+>
+> or
+>
+> scholl.ben@gmail.com
 
-Or
+### Full list of publications
 
-scholl.ben@gmail.com
+> XX
+>
+> or
+>
+> XX
+
+### Twitter
+
+> XX
 
 <!--EndFragment-->
