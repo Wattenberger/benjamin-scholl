@@ -1,6 +1,9 @@
 ---
-title: Contact Us
+templateKey: contact-page
+path: /contact
+title: Contact us
 ---
+
 <!--StartFragment-->
 
 ### Please feel free to contact us!
