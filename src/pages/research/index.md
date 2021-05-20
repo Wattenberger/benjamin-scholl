@@ -9,11 +9,11 @@ title: Research Projects
 
 > #### ***1. Synaptic basis of visual computations***
 >
-> Single neurons are driven by populations of synaptic inputs. Pyramidal cortical neurons in the primary visual cortex are highly selective for visual features in the world (and often in an invariant manner), and much of this selectivity emergent in carnivores and primates. This project uses in vivo multiphoton calcium imaging of synaptic networks onto single neurons, taking advantage of dendritic spines which are major site of excitatory input innervation. Studying the inputs and outputs in single neurons in the visual system will provide much needed insight into how neural computations are preformed.
->
-> #### ***2. Probing the behavior of visual circuits in action***
->
-> #### ***3. Effects of ASD-associated gene mutations on cortical synaptic networks***
+> Single neurons are driven by huge populations of synapses. In the visual system, single neurons are highly selective for features in the world (often in an invariant manner). In carnivores and primates, a tremendous amount of visual selectivity emerges in the primary visual cortex. This project aims to understand how this selectivity emerges in single neurons; how inputs are transformed into outputs. This project uses in vivo multiphoton calcium imaging of synaptic networks onto single pyramidal cortical neurons, taking advantage of dendritic spines, which are major site of excitatory input innervation. Understanding input/output transformations in single neurons in the visual system will provide much needed insight into the nature of neural computation.
+
+#### ***2. Probing the behavior of visual circuits in action***
+
+#### ***3. Effects of ASD-associated gene mutations on cortical synaptic networks***
 
 ### Ongoing projects to contribute
 
