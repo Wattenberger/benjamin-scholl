@@ -23,7 +23,7 @@ title: Research Projects
 
 > Synaptic pathology is a prominent feature of autism spectrum disorders (ASD). Synaptic dysfunction is presumed to be an underlying cause of ASD, as genomic studies have identified risk genes regulating synaptic structure and physiology. One gene strongly associated with ASD and other CNS disorders is Phosphatase and tensin homolog located on chromosome 10 (*Pten*). But while global mouse models with dysfunctional Pten exhibit synaptic pathology and mimic ASD symptoms, it is unknown how synaptic integration, organization, and function are impacted within individual neurons. This project aims to understand how Pten signaling shapes synaptic integration and functional architecture in single neurons. This collaborative project uses CRISPR/Cas9 edits in single neurons in combination with *in vivo* synaptic calcium imaging measurements.
 >
-> ![]( "In vivo image of dendrite and spines from a cellular with disrupted Pten signaling")
+> ![In vivo image of dendrite and spines from a cellular with disrupted Pten signaling](/img/3.png)
 
 ### Ongoing projects to contribute
 
