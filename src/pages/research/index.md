@@ -29,13 +29,13 @@ title: Research Projects
 
 > #### ***1. Structure-function relationships at synaptic resolution***
 >
-> Our lab has access to rich 3D CLEM (correlative light and electron microscopy) datasets (see Scholl et al. 2021). Many features are annotative (reconstructed and labeled) and ready for analysis. Other features can be annotated and processed for analysis to answer new questions. 
+> Our lab has access to rich 3D CLEM (correlative light and electron microscopy) datasets (see Scholl et al. 2021). Many features are annotated (reconstructed and labeled), ripe for analysis. Other features can be annotated and processed for analysis to answer new questions. 
 >
 > ![Images of cortical tissue at ultrastructural resolution](/img/ferretsbem.gif)
 >
 > #### ***2. Spine calcium activity variability and effects on input/output transformations***
 >
-> details
+> Synapses are inherently stochastic. Responses to sensory stimuli are also variable. These two factors are rarely examined in together, or with respect to input/output transformations. This project will utilize in vivo data to underestand how synaptic variability impacts neural computation.
 >
 > #### ***3. Correlating neural activity and CREB signaling in single cells in vivo***
 >
