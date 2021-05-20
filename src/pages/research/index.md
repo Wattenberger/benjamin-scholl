@@ -25,11 +25,13 @@ title: Research Projects
 >
 > ![In vivo image of dendrite and spines from a cellular with disrupted Pten signaling](/img/3.png)
 
-### Ongoing projects to contribute
+### Ongoing projects to join
 
 > #### ***1. Structure-function relationships at synaptic resolution***
 >
-> details
+> Our lab has access to rich 3D CLEM (correlative light and electron microscopy) datasets (see Scholl et al. 2021). Many features are annotative (reconstructed and labeled) and ready for analysis. Other features can be annotated and processed for analysis to answer new questions. 
+>
+> ![Images of cortical tissue at ultrastructural resolution](/img/ferretsbem.gif)
 >
 > #### ***2. Spine calcium activity variability and effects on input/output transformations***
 >
