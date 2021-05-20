@@ -27,13 +27,25 @@ title: Research Projects
 
 ### Ongoing projects to contribute
 
-> #### ***1. Examining the relationship between functional response properties and ultrastructural anatomy in dendritic spines of single cortical neurons***
+> #### ***1. Structure-function relationships at synaptic resolution***
 >
-> #### ***2. Analyzing variability of dendritic spine calcium activity and effects on input/output transformations***
+> details
 >
-> #### ***3. Maximum entropy modeling, information theory, and population coding theory applied to activity of synaptic populations in single cortical neurons***
+> #### ***2. Spine calcium activity variability and effects on input/output transformations***
 >
-> #### ***4. Analysis of two-photon calcium activity and two-photon molecular activity at cellular resolution in vivo***
+> details
+>
+> #### ***3. Correlating neural activity and CREB signaling in single cells in vivo***
+>
+> details
+>
+> #### ***4. Population coding theory, maximum entropy models, and information theory applied to synaptic populations***
+>
+> details
+>
+> #### 5***. Modeling synaptic population integration and dynamics***
+>
+> details
 
 ### Future projects
 
@@ -44,5 +56,3 @@ title: Research Projects
 > #### ***3. Visual processing in action in a true carnivore***
 >
 > #### ***4. Molecular interrogation of synaptic network development in a carnivore***
-
-TEST
