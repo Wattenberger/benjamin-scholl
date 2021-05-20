@@ -21,7 +21,9 @@ title: Research Projects
 
 #### ***3. Effects of genes associated with Austism Spectrum Disorder on cortical synaptic networks***
 
-> Synaptic pathology is a prominent feature of autism spectrum disorders (ASD) and synaptic dysfunction is presumed to be an underlying cause of ASD, as genomic studies have identified risk genes encoding proteins which regulate synaptic structure and physiology. One candidate gene strongly associated with ASD and other CNS disorders is Phosphatase and tensin homolog located on chromosome 10 (*Pten*). While global mouse models with dysfunctional Pten exhibit synaptic pathology and mimic ASD symptoms, it isunclear how synaptic integration, organization, and function are impacted within individual neurons. This project aims to understand how Pten signaling shapes synaptic integration and functional architecture in single neurons. This collaborative project uses CRISPR/Cas9 in single neurons in combination with *in vivo* synaptic calcium imaging. This unique approach will precisely assess single neurons from a postsynaptic perspective, without potential confounds of mouse models with broad, distributed pathology.
+> Synaptic pathology is a prominent feature of autism spectrum disorders (ASD). Synaptic dysfunction is presumed to be an underlying cause of ASD, as genomic studies have identified risk genes regulating synaptic structure and physiology. One gene strongly associated with ASD and other CNS disorders is Phosphatase and tensin homolog located on chromosome 10 (*Pten*). But while global mouse models with dysfunctional Pten exhibit synaptic pathology and mimic ASD symptoms, it is unknown how synaptic integration, organization, and function are impacted within individual neurons. This project aims to understand how Pten signaling shapes synaptic integration and functional architecture in single neurons. This collaborative project uses CRISPR/Cas9 edits in single neurons in combination with *in vivo* synaptic calcium imaging measurements.
+>
+> ![](/img/figure3.png "In vivo image of dendrite and spines from a cellular with disrupted Pten signaling")
 
 ### Ongoing projects to contribute
 
