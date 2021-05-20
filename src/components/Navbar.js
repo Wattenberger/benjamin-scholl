@@ -62,7 +62,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 contact
               </Link>
-              <Link className="navbar-item" to="/projects">
+              <Link className="navbar-item" to="/research">
                 research
               </Link>
               <Link className="navbar-item" to="/people">
