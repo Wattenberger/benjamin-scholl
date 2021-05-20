@@ -1,30 +1,34 @@
 ---
 templateKey: research-page
-path: /projects
-title: Projects
+path: /research
+title: Research Projects
 ---
-
 <!--StartFragment-->
 
-### Research Interests
+### Major projects
 
-- Organization of neuron sensory selectivities
-- Membrane potential dynamics in awake behaving animals
-- Investigating properties of subcortical and cortical circuitry
-- Testing computational network models with physiological measurements
-- Excitatory and inhibitory inputs underlying neuron response properties
-- Developmental plasticity
-- Evolution of the mammalian cerebral cortex
-- Audiovisual behavior and circuit plasticity
+> ###### ***1. Synaptic basis of visual computations***
+>
+> ###### ***2. Probing the behavior of visual circuits in action***
+>
+> ###### ***3. Effects of ASD-associated gene mutations on cortical synaptic networks***
 
-### Current Projects
+### Ongoing projects to contribute
 
-- Membrane potential dynamics in awake-behaving primates
-- Emergence of direction selectivity in the cerebral cortex
-- The evolution of orientation selectivity and a cortical map
-- Binocular plasticity and development in circuits
-- Response dynamics and variability of simple and complex cells
-- Computing stereoscopic depth
-- Roles of synaptic inhibition in shaping tuning for sensory inputs
+> ###### ***1. Examining the relationship between functional response properties and ultrastructural anatomy in dendritic spines of single cortical neurons***
+>
+> ###### ***2. Analyzing variability of dendritic spine calcium activity and effects on input/output transformations***
+>
+> ###### ***3. Maximum entropy modeling, information theory, and population coding theory applied to activity of synaptic populations in single cortical neurons***
+>
+> ###### ***4. Analysis of two-photon calcium activity and two-photon molecular activity at cellular resolution in vivo***
 
-<!--EndFragment-->
+### Future projects
+
+> ###### ***1. Following the development of synaptic networks***
+>
+> ###### ***2.Hunting behaviors of a true carnivore***
+>
+> ###### ***3. Visual processing in action in a true carnivore***
+>
+> ###### ***4. Molecular interrogation of synaptic network development in a carnivore***
