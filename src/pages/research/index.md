@@ -3,9 +3,18 @@ templateKey: research-page
 path: /research
 title: Research Projects
 ---
-
 <!--StartFragment-->
 
-tbd
+### Major projects
+
+>
+
+### Ongoing projects to contribute
+
+>
+
+### Future projects
+
+>
 
 <!--EndFragment-->
