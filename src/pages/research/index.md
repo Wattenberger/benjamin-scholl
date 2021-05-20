@@ -7,7 +7,7 @@ title: Research Projects
 
 ### Major projects
 
-###### ***1. Synaptic basis of visual computations*** 
+###### ***1. Synaptic basis of visual computations***
 
 ###### ***2. Probing the behavior of visual circuits in action***
 
@@ -15,7 +15,13 @@ title: Research Projects
 
 ### Ongoing projects to contribute
 
-###### ***1.*** 
+###### ***1. Examining the relationship between functional response properties and ultrastructural anatomy in dendritic spines of single cortical neurons***
+
+###### ***2. Analyzing variability of dendritic spine calcium activity and effects on input/output transformations***
+
+###### ***3. Maximum entropy modeling, information theory, and population coding theory applied to activity of synaptic populations in single cortical neurons***
+
+###### ***4. Analysis of two-photon calcium activity and two-photon molecular activity at cellular resolution in vivo***
 
 ### Future projects
 
