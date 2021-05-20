@@ -13,7 +13,11 @@ title: Research Projects
 
 #### ***2. Probing the behavior of visual circuits in action***
 
-#### ***3. Effects of ASD-associated gene mutations on cortical synaptic networks***
+> needed
+
+#### ***3. Effects of genes associated with Austism Spectrum Disorder on cortical synaptic networks***
+
+> needed
 
 ### Ongoing projects to contribute
 
