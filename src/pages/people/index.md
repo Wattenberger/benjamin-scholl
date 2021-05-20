@@ -7,7 +7,7 @@ title: People
 
 ![](/img/img2.png)
 
-Benjamin Scholl , Ph.D.  
+Benjamin Scholl, Ph D
 
 **Principle Investigator**
 
