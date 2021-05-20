@@ -9,8 +9,6 @@ title: Research Projects
 
 > ###### ***1. Synaptic basis of visual computations***
 >
-> XXX
->
 > ###### ***2. Probing the behavior of visual circuits in action***
 >
 > ###### ***3. Effects of ASD-associated gene mutations on cortical synaptic networks***
