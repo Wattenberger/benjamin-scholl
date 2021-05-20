@@ -17,7 +17,7 @@ title: Research Projects
 
 > Each neuron’s population of presynaptic partners determines how incoming information is processed. A majority of synaptic inputs originate from local networks through horizontal (recurrent) connections. Theoretical models of the visual system suggest these inputs perform a fundamental function in cortical circuits: selective modulation. Specifically, selective amplification or attenuation in a manner dependent on the strength and statistics of incoming sensory information. But this process has not been elucidated at the synaptic level, and the mechanisms proposed by stem from studies of rodents and have not been tested in different mammalian systems. This project aims to map presynaptic excitatory and inhibitory cells of single layer 2/3 neurons and dissect how they act to selectively modulate the behavior of neural circuits in a carnivore. This project utilizes a combination of in vivo multiphoton optogenetic neural control, multiphoton calcium imaging, and intracellular electrophysiology.
 >
-> ![]( "In vivo calcium imaging and cellular targeted activation")
+> ![In vivo calcium imaging and cellular targeted activation](/img/2.gif)
 
 #### ***3. Effects of genes associated with Austism Spectrum Disorder on cortical synaptic networks***
 
