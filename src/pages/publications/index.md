@@ -10,7 +10,7 @@ publications:
       Benjamin Scholl, Connon Thomas, Melissa Ryan, Naomi Kamasawa, David
       Fitzpatrick
     journal: Nature 2021
-    link: 'https://www.biorxiv.org/content/10.1101/2019.12.24.887422v1.abstract'
+    link: 'https://www.nature.com/articles/s41586-020-03044-3'
   - authors: >-
       Tal Laviv, Benjamin Scholl, Paula Parra-Bueno, Beth Foote, Chuqiu Zhang,
       Long Yan, Yuki Hayano, Jun Chu, Ryohei Yasuda
