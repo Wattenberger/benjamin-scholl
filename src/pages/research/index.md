@@ -43,11 +43,7 @@ title: Research Projects
 >
 > #### ***4. Population coding theory, maximum entropy models, and information theory applied to synaptic populations***
 >
-> details
->
-> #### 5***. Modeling synaptic population integration and dynamics***
->
-> details
+> Synaptic populations provide another avenue to understanding the dynamics and complicated nature of neural dynamics. This project will use a variety of theoretical and computational tools applied to synaptic networks measured in vivo.
 
 ### Future projects
 
