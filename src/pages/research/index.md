@@ -39,7 +39,7 @@ title: Research Projects
 >
 > #### ***3. Correlating neural activity and CREB signaling in single cells in vivo***
 >
-> details
+> This collaborative project involves analyzing novel datasets which capture molecular dynamics of proteins like CREB and neural activity in the same cells in living animals. This project will answer questions about how molecular signaling and neural activity are directly correlated and impact one another.
 >
 > #### ***4. Population coding theory, maximum entropy models, and information theory applied to synaptic populations***
 >
