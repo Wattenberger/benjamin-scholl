@@ -35,7 +35,7 @@ title: Research Projects
 >
 > #### ***2. Spine calcium activity variability and effects on input/output transformations***
 >
-> Synapses are inherently stochastic. Responses to sensory stimuli are also variable. These two factors are rarely examined in together, or with respect to input/output transformations. This project will utilize in vivo data to underestand how synaptic variability impacts neural computation.
+> Synapses are inherently stochastic (by their vary nature and when driven by sensory stimuli). How does synaptic variability relate to input/output transformations? This project will utilize in vivo data to underestand how synaptic variability impacts neural computation.
 >
 > #### ***3. Correlating neural activity and CREB signaling in single cells in vivo***
 >
