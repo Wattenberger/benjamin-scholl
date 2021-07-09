@@ -2,7 +2,13 @@
 templateKey: index-page
 title: Welcome to the Scholl Lab
 ---
+![](/img/mroitest.gif)
+
 <!--StartFragment-->
+
+
+
+
 
 I am interested in mechanisms of cortical sensory processing: **How do neurons transform information from the world and into electrical activity used to mediate perception and behavior**. Previously I worked in the auditory system, but I now focus on the visual system. I have studied the primary visual cortex in a number of mammalian species and am a proponent of the power of comparative analyses. 
 
