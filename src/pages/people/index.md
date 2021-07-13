@@ -9,6 +9,6 @@ title: People
 
 Benjamin Scholl, PhD
 
-**Principle Investigator**
+**Principal Investigator**
 
 <!--EndFragment-->
