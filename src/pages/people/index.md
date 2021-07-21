@@ -5,7 +5,7 @@ title: People
 ---
 <!--StartFragment-->
 
-![](/img/img2.png)
+![](/img/image003.jpg)
 
 Benjamin Scholl, PhD
 
