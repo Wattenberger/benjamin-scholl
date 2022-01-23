@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to the Scholl Lab
+title: Welcome!
 ---
 ![](/img/mroitest.gif)
 
