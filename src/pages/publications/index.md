@@ -6,7 +6,7 @@ publications:
   - authors: >
       Benjamin Scholl, Clara Tepohl, Connon Thomas, Melissa Ryan, Naomi
       Kamasawa, David Fitzpatrick
-    journal: Neuron
+    journal: Neuron 2022
     title: >-
       A binocular synaptic network supports interocular response alignment in
       visual cortical neurons
