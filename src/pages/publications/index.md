@@ -3,6 +3,14 @@ templateKey: publications-page
 path: /publications
 title: Selected Publications
 publications:
+  - authors: >
+      Benjamin Scholl, Clara Tepohl, Connon Thomas, Melissa Ryan, Naomi
+      Kamasawa, David Fitzpatrick
+    journal: Neuron
+    title: >-
+      A binocular synaptic network supports interocular response alignment in
+      visual cortical neurons
+    link: 'https://www.biorxiv.org/content/10.1101/2021.06.22.449272v1'
   - title: >-
       Cortical neuron response selectivity derives from strength in numbers of
       synapses
