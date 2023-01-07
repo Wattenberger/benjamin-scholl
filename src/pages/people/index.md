@@ -5,10 +5,16 @@ title: People
 ---
 <!--StartFragment-->
 
-![](/img/screen_shot_2022-01-23_at_4.47.12_pm_26.png)
+![]()
 
-Benjamin Scholl, PhD
+Benjamin Scholl, PhD, **Principal Investigator**
 
-**Principal Investigator**
+Tammi Coleman, **L﻿ab Manager and Veternary Technician**  
+
+M﻿aria Fina,  **Technician**
+
+J﻿oe Barreto, **U﻿ndergraduate Research Scientist** 
+
+G﻿reg Bond, **Research Scientist**
 
 <!--EndFragment-->
