@@ -5,8 +5,6 @@ title: People
 ---
 <!--StartFragment-->
 
-![]()
-
 Benjamin Scholl, PhD, **Principal Investigator**
 
 Tammi Coleman, **L﻿ab Manager and Veternary Technician**  
