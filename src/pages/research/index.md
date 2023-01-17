@@ -19,7 +19,7 @@ title: Research Projects
 >
 > ![In vivo calcium imaging and cellular targeted activation](/img/2.gif)
 
-#### ***3. Single-cell CRISPR/Cas9 manipulations to study molecular mechanisms and synaptic pathology in cortical spines, cells, and circuits*** 
+#### ***3. Single-cell CRISPR/Cas9 manipulations to study molecular mechanisms and synaptic pathology in cortical spines, cells, and circuits***
 
 > Synaptic pathology is a prominent feature of psychiatric illness and many neurological disorders. For example, synaptic dysfunction is presumed to be an underlying cause of Autism Spectrum Disorder, as genomic studies have identified risk genes regulating synaptic structure and physiology, and NMDA receptor dysfunction is highly implicated in the emergence of schizophrenia, based on numerous studies from mouse to primates and humans. One gene strongly associated with ASD and other CNS disorders is Phosphatase and tensin homolog located on chromosome 10 (*Pten*). But while global mouse models with dysfunctional Pten exhibit synaptic pathology and mimic ASD symptoms, it is unknown how synaptic integration, organization, and function are impacted within individual neurons. This project aims to understand how Pten signaling shapes synaptic integration and functional architecture in single neurons. This collaborative project uses CRISPR/Cas9 edits in single neurons in combination with *in vivo* synaptic calcium imaging measurements.
 
