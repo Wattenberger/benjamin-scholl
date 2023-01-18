@@ -13,6 +13,6 @@ M﻿aria Fina,  **Technician**
 
 J﻿oe Barreto, **U﻿ndergraduate Research Scientist** 
 
-G﻿reg Bond, **Research Scientist**
+G﻿reg Bond, **Research Scientist.** 
 
 <!--EndFragment-->
