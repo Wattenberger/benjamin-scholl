@@ -3,12 +3,11 @@ templateKey: contact-page
 path: /contact
 title: Contact us
 ---
-
 <!--StartFragment-->
 
 ### Please feel free to contact us!
 
-> benjamin.scholl@pennmedicine.upenn.edu
+> benjamin.scholl@cuanschutz.edu
 >
 > or
 >
