@@ -1,7 +1,7 @@
 ---
 templateKey: cv-page
 path: /cv
-title: curriculum vitae
+title: CV
 education:
   - what: Ph.D. Neuroscience
     where: 'University of Texas, Austin, Texas'
