@@ -7,14 +7,10 @@ title: People
 
 Benjamin Scholl, PhD, **Principal Investigator**
 
-Tammi Coleman, **L﻿ab Manager and Veternary Technician** .
+L﻿aura Koek, PhD, **Postdoc**
 
-M﻿aria Fina,  **Technician.**
+J﻿oe Barreto, **Research Scientist**
 
-J﻿oe Barreto, **U﻿ndergraduate Research Scientist.**
-
-G﻿reg Bond, **Research Scientist.**
-
-
+G﻿reg Bond, **Research Scientist**
 
 <!--EndFragment-->
