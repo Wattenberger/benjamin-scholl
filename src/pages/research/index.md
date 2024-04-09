@@ -19,7 +19,7 @@ title: Research Projects
 >
 > ![In vivo calcium imaging and cellular targeted activation](/img/2.gif)
 
-#### ***3﻿. Redefining visual development through natural behavior (hunting ferrets) and neural dynamics***
+#### ***3﻿. Visual development of natural behavior (hunting ferrets) and neural dynamics***
 
 > ﻿Neural development is generally considered a feed- forward process: experience shapes neural activity, thereby influencing the structure, gene expression, and function of brain circuits. Missing from this picture is the dynamic nature of experience itself, which is shaped by developing brain circuits, and how natural behaviors concurrently emerge with maturing visual circuits. To address this challenge, we propose a return-to-first-principles approach using the ferret model system. We characterize the developmental trajectory of natural visually-guided behaviors and map the concurrent maturation of neuronal circuits. We are using modern methods and computational tools to track the natural development of visually-guided behaviors, kinematics, and eye-movements in ferrets. We will incorporate head-fixed and head-mounted in vivo two-photon (2P) microscopy to map the structural and functional dynamics of neural networks at synaptic and cellular scales. This project will produce a novel platform for studying the intersection between dynamic experience, changes in statistics of the outside world, constraints of neural circuits, and the development of natural behaviors
 >
