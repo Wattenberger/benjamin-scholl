@@ -12,9 +12,13 @@ education:
     when: 2004 - 2008
 research:
   - what: Assistant Professor
+    where: 'University of Colorado, Anschutz School of Medicine, Denver, Colorado'
+    when: 2024 - Present
     description: Studying cortical synaptic networks in health and disease
+  - what: Assistant Professor
+    description: ''
     where: 'University of Pennsylvania, Philadelphia, PA'
-    when: 2021 - Present
+    when: 2021 - 2023
   - what: 'Postdoc, (PI) David Fitzpatrick, Ph.D. '
     description: 'Focus: sensory computations in ferret cortex'
     where: 'Max Planck Florida Institute for Neuroscience, Jupiter, Florida'
@@ -34,7 +38,13 @@ research:
     where: 'Institute of Neuroscience, University of Oregon, Eugene, Oregon'
     when: 2005 - 2008
 awards:
-  - description: K99 EY031137-01
+  - description: 'Alfred P. Sloan Fellowship '
+    when: '2023'
+  - description: Brain Research Foundation Pilot Award
+    when: '2023'
+  - description: Whitehall Foundation Award
+    when: '2022'
+  - description: 'NIH NEI K99 Independence Award '
     when: 2020-2024
     what: >-
       Principles of presynaptic networks for single layer 2/3 neurons in ferret
@@ -59,29 +69,5 @@ awards:
     when: 2008 - 2009
   - description: Novick Award for Undergraduate Thesis
     when: '2008'
-presentations:
-  - what: >-
-      Emergence of orientation selectivity in the mammalian visual pathway.
-      ENCODS
-    when: 'April, 2013'
-    where: 'Bordeaux, France.'
-  - what: Binocular integration in mouse visual cortex. A&M Neuroscience Conference
-    when: 'April, 2013'
-    where: 'College Station, TX. '
-  - what: >-
-      Disruption of ocular integration in primary visual cortex. Society for
-      Neuroscience
-    when: 'Oct, 2012'
-    where: 'New Orleans, Louisiana.'
-  - what: 'Understanding the black box: Studying sensory computations. UT Seminar'
-    when: 'Mar, 2012'
-    where: 'Austin, Texas. '
-  - what: Binocular integration in the primary visual cortex. MARCS seminar
-    when: 'Feb, 2012 '
-    where: 'Sydney, Australia.'
-  - what: >-
-      Synaptic mechanisms of binocular convergence in simple cells. Vision Down
-      Under
-    when: 'Jan, 2012'
-    where: 'Brisbane, Australia.'
+presentations: []
 ---
