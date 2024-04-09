@@ -1,7 +1,7 @@
 ---
 templateKey: research-page
 path: /research
-title: Research Projects
+title: Projects
 ---
 <!--StartFragment-->
 
