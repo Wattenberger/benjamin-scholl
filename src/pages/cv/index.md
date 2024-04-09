@@ -16,7 +16,7 @@ research:
     when: 2024 - Present
     description: Studying cortical synaptic networks in health and disease
   - what: Assistant Professor
-    description: ''
+    description: Studying cortical synaptic networks in health and disease
     where: 'University of Pennsylvania, Philadelphia, PA'
     when: 2021 - 2023
   - what: 'Postdoc, (PI) David Fitzpatrick, Ph.D. '
